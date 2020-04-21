@@ -1,0 +1,5 @@
+C:\Users\gabi_\source\repos\ProyectHuanei0\ProyectHuanei0\obj\Debug\ProyectHuanei0.csprojAssemblyReference.cache
+C:\Users\gabi_\source\repos\ProyectHuanei0\ProyectHuanei0\obj\Debug\ProyectHuanei0.Form1.resources
+C:\Users\gabi_\source\repos\ProyectHuanei0\ProyectHuanei0\obj\Debug\ProyectHuanei0.Properties.Resources.resources
+C:\Users\gabi_\source\repos\ProyectHuanei0\ProyectHuanei0\obj\Debug\ProyectHuanei0.csproj.GenerateResource.cache
+C:\Users\gabi_\source\repos\ProyectHuanei0\ProyectHuanei0\obj\Debug\ProyectHuanei0.csproj.CoreCompileInputs.cache
